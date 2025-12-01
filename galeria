@@ -7,7 +7,6 @@
     <style>
         
         *{
-            
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -27,17 +26,11 @@
             display: flex;
             align-items: center;
             justify-content:space-between;
-            
-            
-            
         }
          .b{
             list-style: none;
             display: flex;
             gap: 30px;
-            
-
-            
         }
         .pesquisa{
             height: 45px;
@@ -48,7 +41,6 @@
             width: 1000px;
             align-items: center;
             display: flex;
-
         }
         .b2{
             color: white;
